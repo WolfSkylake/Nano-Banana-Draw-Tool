@@ -1,6 +1,6 @@
 # Nano-Banana-Draw-Tool
 
-Nano Banana 绘图工具 ｜ Nano Banana 画图工具
+Nano Banana 绘图工具 ｜ Nano Banana 画图工具 | Gemini 2.5 Flash Image Draw Tool
 
 ---
 
@@ -23,3 +23,7 @@ OpenRouter-Paid.html - OpenRouter Nano Banana 付费模型
 ---
 
 许可证：MIT License
+
+作者：WolfSkylake
+
+转载 / 二创 请保留原始的版权声明和许可声明
