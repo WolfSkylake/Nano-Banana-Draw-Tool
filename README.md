@@ -20,6 +20,8 @@ OpenRouter-Free.html - OpenRouter Nano Banana 免费模型
 
 OpenRouter-Paid.html - OpenRouter Nano Banana 付费模型
 
+快速体验(OpenRouter免费模型)：[Nano Banana 绘图工具](https://wolfskylake.github.io/Nano-Banana-Draw-Tool/)
+
 ---
 
 许可证：MIT License
