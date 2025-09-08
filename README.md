@@ -25,19 +25,15 @@ HTML 单文件，直接下载到本地即可使用
 
 为了方便使用，提供了两个快速上手版本  
 
-OpenRouter-Free.html - OpenRouter Nano Banana 免费模型
-
 OpenRouter-Paid.html - OpenRouter Nano Banana 付费模型
 
-快速体验(OpenRouter免费模型)：[Nano Banana 绘图工具](https://wolfskylake.github.io/Nano-Banana-Draw-Tool/)
+快速体验(OpenRouter模型)：[Nano Banana 绘图工具](https://wolfskylake.github.io/Nano-Banana-Draw-Tool/)
 
 > For ease of use, two quick-start versions are provided
 >
-> OpenRouter-Free.html - OpenRouter Nano Banana free model
->
 > OpenRouter-Paid.html - OpenRouter Nano Banana paid model
 >
-> Quick experience (OpenRouter free model): [Nano Banana Draw Tool](https://wolfskylake.github.io/Nano-Banana-Draw-Tool/)
+> Quick experience (OpenRouter model): [Nano Banana Draw Tool](https://wolfskylake.github.io/Nano-Banana-Draw-Tool/)
 ---
 
 许可证：MIT License
